@@ -1,0 +1,193 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="potolki-saransk.ru" resolutions="1x" timestamp="1519232541427">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="189202379" ref="index:spasibo"/>
+    <file name="index.css" crc="4168158982" ref="index"/>
+    <file name="spasibo.css" crc="4225935856" ref="spasibo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="museutils.js" crc="3803043152" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="whatinput.js" crc="86476730" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="museconfig.js" crc="4153641093" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="jquery.watch.js" crc="99325471" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="webpro.js" crc="242022427" ref="tablet>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="tablet>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="tablet>index"/>
+    <file name="form_process.php" crc="3851993751" ref="tablet>index"/>
+    <file name="form-u3461.php" crc="434906500" ref="tablet>index"/>
+    <file name="form-u3900.php" crc="3873840625" ref="tablet>index"/>
+    <file name="require.js" crc="4157109226" ref="tablet>index:tablet>spasibo:index:spasibo"/>
+    <file name="form-u105.php" crc="157191765" ref="index"/>
+    <file name="form-u507.php" crc="453157065" ref="index"/>
+    <file name="form-u982.php" crc="3804337235" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form-u798.php" crc="4179792739" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="382090390" seo="true" ref="tablet>index:index:spasibo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+    </file>
+    <file name="15-u3452-fr.jpg" crc="3938599200" ref="tablet>index"/>
+    <file name="separator_bottom.png" crc="51568746" ref="tablet>index:index:spasibo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+    </file>
+    <file name="separator.png" crc="3797843433" ref="tablet>index:index:spasibo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="spasibo" alt=""/>
+    </file>
+    <file name="pic5.jpg" crc="297423168" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic3.jpg" crc="4221776995" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic9.jpg" crc="486884571" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic4.jpg" crc="21841581" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic6.jpg" crc="502796582" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic2.jpg" crc="3916838220" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic8.jpg" crc="4278158889" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic7.jpg" crc="4006544883" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic10.jpg" crc="4077929841" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic1.jpg" crc="130842748" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="potolok_b.jpg" crc="501269287" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="example2.jpg" crc="4085774835" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="example4.jpg" crc="4177069710" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="example1.jpg" crc="3910545866" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f0.jpg" crc="4034158622" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt="БЫСТРАЯ УСТАНОВКА ------------ Монтаж потолка занимает от 2 до 6 часов и возможен на любом этапе ремонта"/>
+    </file>
+    <file name="example5.jpg" crc="432432577" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="satiko_bath_1.jpg" crc="4226760170" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="container_1_step_1.png" crc="510616883" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="container_1_step_2.png" crc="51214811" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="container_1_step_4.png" crc="387039578" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="container_1_step_3.png" crc="72422927" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="promo-u3894-fr.jpg" crc="3874586054" ref="tablet>index"/>
+    <file name="hww1536x531.jpg" crc="3951544924" ref="tablet>spasibo">
+      <caption webpage="spasibo" alt=""/>
+    </file>
+    <file name="15.jpg" crc="401294915" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="promo.jpg" crc="3971433775" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="488627401" ref="index">
+      <caption webpage="index" alt="БЕЗ ПОДГОТОВКИ ------------ Перед установкой просто вынесите из помещения цветы и предметы, чувствительные к высоким температурам"/>
+    </file>
+    <file name="f2.jpg" crc="4088559500" ref="index">
+      <caption webpage="index" alt="ИДЕАЛЬНАЯ ПОВЕРХНОСТЬ ------------ Идеально ровные натяжные потолки скрывают недостатки базового потолка"/>
+    </file>
+    <file name="f3.jpg" crc="443522276" ref="index">
+      <caption webpage="index" alt="ДОЛГОВЕЧНОСТЬ ------------ Гарантийный срок эксплуатации – 10 лет"/>
+    </file>
+    <file name="f4.jpg" crc="206765274" ref="index">
+      <caption webpage="index" alt="ВЫСОКАЯ ШУМОИЗОЛЯЦИЯ ------------ Натяжные потолки поглощают до 90% посторонних звуков"/>
+    </file>
+    <file name="f5.jpg" crc="337361485" ref="index">
+      <caption webpage="index" alt="ЗЩИТА ОТ ПРОТЕЧЕК ------------ Выдерживают до 100 литров воды на 1 м2"/>
+    </file>
+    <file name="f6.jpg" crc="352388676" ref="index">
+      <caption webpage="index" alt="СУХОСТЬ В ЛЮБОЕ ВРЕМЯ ГОДА ------------ Не конденсируют влагу"/>
+    </file>
+    <file name="f7.jpg" crc="3790047721" ref="index">
+      <caption webpage="index" alt="ПРОСТОТА УХОДА ------------ Для поддержания чистоты полотна достаточно влажной уборки"/>
+    </file>
+    <file name="20140910_120845.jpg" crc="4183380967" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="file-u971.png" crc="4274272819" ref="index"/>
+    <file name="file-u971-r.png" crc="3920653316" ref="index"/>
+    <file name="faq.jpg" crc="3839265167" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hww.jpg" crc="3817821659" ref="spasibo">
+      <caption webpage="spasibo" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="457717902" ref="tablet>index"/>
+      <file name="spasibo.css" crc="379386949" ref="tablet>spasibo"/>
+    </folder>
+    <file name="index.html" crc="4109485628" seo="true" mt="1519230190028" redirect="true"/>
+    <file name="spasibo.html" crc="266206683" seo="true" mt="1519226577541" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3773536143" seo="true" mt="1519230209255" redirect="true"/>
+  <file name="spasibo.html" crc="98521909" seo="true" mt="1519226577754" redirect="true"/>
+</manifest>
